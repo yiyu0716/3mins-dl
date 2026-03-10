@@ -1,4 +1,9 @@
 # 3min-dl
+blog/博客 CSDN：https://blog.csdn.net/ldxldz?spm=1000.2115.3001.5343
+
+博客园：https://www.cnblogs.com/yiyuldx
+
+github：https://github.com/yiyu0716/3mins-dl
 专为零基础小白打造的深度学习极简指南。这里没有令人头疼的公式，只有通俗易懂的知识拆解。每天只需3分钟，带你利用碎片时间轻松看懂AI核心概念，从零开始，毫无压力地跨入人工智能大门。
 持续更新中
 # 3分钟搞懂深度学习AI
